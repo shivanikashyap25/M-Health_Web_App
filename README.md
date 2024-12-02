@@ -5,11 +5,11 @@
 
 This project focuses on developing a web-based platform integrated with machine learning algorithms to address challenges related to heart disease and breast cancer. The platform allows users to select from two datasets—heart attack or breast cancer—and apply various machine learning models, including:
 
-Logistic Regression
-K-Nearest Neighbors (KNN)
-Support Vector Machine (SVM)
-Random Forest
-XGBoost
+- Logistic Regression
+- K-Nearest Neighbors (KNN)
+- Support Vector Machine (SVM)
+- Random Forest
+- XGBoost
 
 # Key Features:
 Dataset Insights: Users can explore basic information, such as the total number of records and the number of classes in each dataset.
