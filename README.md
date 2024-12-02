@@ -1,4 +1,8 @@
 ML-Health Web Application
+
+
+
+
 This project focuses on developing a web-based platform integrated with machine learning algorithms to address challenges related to heart disease and breast cancer. The platform allows users to select from two datasets—heart attack or breast cancer—and apply various machine learning models, including:
 
 Logistic Regression
