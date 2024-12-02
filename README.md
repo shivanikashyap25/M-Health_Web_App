@@ -10,11 +10,13 @@ K-Nearest Neighbors (KNN)
 Support Vector Machine (SVM)
 Random Forest
 XGBoost
-Key Features:
+
+# Key Features:
 Dataset Insights: Users can explore basic information, such as the total number of records and the number of classes in each dataset.
 Data Visualization: The platform generates graphs for better visualization, aiding in data comprehension.
 Model Performance Evaluation: Each model's performance is assessed using metrics like accuracy, precision, recall, F1 score, and mean squared error, enabling users to select the most effective model for their needs.
-Predictive Capabilities:
+
+# Predictive Capabilities:
 Users can input their health indicators, such as age, sex, cholesterol levels, and heart rate. The selected model then estimates the likelihood of developing heart disease or breast cancer based on these inputs.
 
 Purpose:
